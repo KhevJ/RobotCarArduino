@@ -4,4 +4,4 @@
 The car can calculate the distance using infra red, it can move forward,backward, turn right and left.
 
 
-![Alt text](CarImage.png "Image of Robot Car")
+![Alt text](RobotCarArduino.png "Image of Robot Car")
